@@ -47,9 +47,6 @@ https://practice.geeksforgeeks.org/problems/mirror-tree/1
 10)Connect Nodes at Same Level
 https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1
 
-11)ZigZag Tree Traversal
-https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1
-
 ****************************************MEDIUM LEVEL****************************************
 
 1)Check for Balanced Tree
@@ -88,6 +85,8 @@ https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-give
 12)Node at distance
 https://practice.geeksforgeeks.org/problems/node-at-distance/1
 
+13)ZigZag Tree Traversal
+https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1
 
 ****************************************HARD LEVEL********************************************
 
