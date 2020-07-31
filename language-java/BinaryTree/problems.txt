@@ -1,0 +1,101 @@
+***************************************BASIC LEVEL******************************************
+
+1)Preorder Traversal
+https://practice.geeksforgeeks.org/problems/preorder-traversal/1
+
+2)Inorder Traversal
+https://practice.geeksforgeeks.org/problems/inorder-traversal/1
+
+3)Postorder Traversal
+https://practice.geeksforgeeks.org/problems/postorder-traversal/1
+
+4)Level order traversal
+https://leetcode.com/problems/binary-tree-level-order-traversal/
+
+5)Height of Binary Tree
+https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1
+
+*****************************************EASY LEVEL******************************************
+
+1)Determine if Two Trees are Identical
+https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1
+
+2)Children Sum Parent
+https://practice.geeksforgeeks.org/problems/children-sum-parent/1
+
+3)Level order traversal Line by Line
+https://practice.geeksforgeeks.org/problems/level-order-traversal-line-by-line/1
+
+4)Level order traversal in spiral form 
+https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1
+
+5)Maximum Width of Tree
+https://leetcode.com/problems/maximum-width-of-binary-tree/
+
+6)Left View of Binary Tree
+https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1
+
+7)Right View of Binary Tree
+https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1
+
+8)Vertical Width of a Binary Tree
+https://practice.geeksforgeeks.org/problems/vertical-width-of-a-binary-tree/1
+
+9)Mirror Tree 
+https://practice.geeksforgeeks.org/problems/mirror-tree/1
+
+10)Connect Nodes at Same Level
+https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1
+
+11)ZigZag Tree Traversal
+https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1
+
+****************************************MEDIUM LEVEL****************************************
+
+1)Check for Balanced Tree
+https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1
+
+2)Lowest Common Ancestor in a Binary Tree
+https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1
+
+3)Diameter of Binary Tree
+https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1
+
+4)Check if subtree
+https://practice.geeksforgeeks.org/problems/check-if-subtree/1
+
+5)Make Binary Tree From Linked List
+https://practice.geeksforgeeks.org/problems/make-binary-tree/1
+
+6)Construct Binary Tree from Parent Array
+https://practice.geeksforgeeks.org/problems/construct-binary-tree-from-parent-array/1
+
+7)Tree from Postorder and Inorder
+https://practice.geeksforgeeks.org/problems/tree-from-postorder-and-inorder/1
+
+8)Foldable Binary Tree
+https://practice.geeksforgeeks.org/problems/foldable-binary-tree/1
+
+9)Maximum path sum from any node
+https://practice.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1
+
+10)Maximum difference between node and its ancestor
+https://practice.geeksforgeeks.org/problems/maximum-difference-between-node-and-its-ancestor/1
+
+11)Count Number of SubTrees having given Sum
+https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1
+
+12)Node at distance
+https://practice.geeksforgeeks.org/problems/node-at-distance/1
+
+
+****************************************HARD LEVEL********************************************
+
+1)Binary Tree to DLL
+https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1
+
+2)Serialize and Deserialize a Binary Tree
+https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1
+
+3)Maximum sum of Non-adjacent nodes
+https://practice.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1
