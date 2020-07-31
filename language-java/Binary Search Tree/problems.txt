@@ -47,6 +47,9 @@ https://practice.geeksforgeeks.org/problems/convert-level-order-traversal-to-bst
 8)Merge two BST 's
 https://practice.geeksforgeeks.org/problems/merge-two-bst-s/1
 
+9)Kth smaller element in BST
+https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+
 *************************************HARD LEVEL*****************************************
 
 1)Top View of Binary Tree
