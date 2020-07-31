@@ -1,0 +1,27 @@
+************************************EASY LEVEL****************************************
+
+1)k largest elements
+https://practice.geeksforgeeks.org/problems/k-largest-elements/0
+
+2)kth largest element
+https://practice.geeksforgeeks.org/problems/kth-smallest-element/0
+
+************************************MEDIUM LEVEL**************************************
+
+1)kth largest element in stream
+https://practice.geeksforgeeks.org/problems/kth-largest-element-in-a-stream/0
+https://leetcode.com/problems/kth-largest-element-in-a-stream/
+
+2)Minimum cost of ropes
+https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0
+
+3)rearrage character
+https://practice.geeksforgeeks.org/problems/rearrange-characters/0
+
+**********************************HARD LEVEL*****************************************
+
+1)merge k sorted arrays
+https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1
+
+2)find median in stream
+https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0
