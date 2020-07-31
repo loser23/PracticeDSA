@@ -1,0 +1,84 @@
+************************************BASIC LEVEL***************************************
+
+1)Count nodes of linked list
+https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1
+
+2)Linked List Insertion
+https://practice.geeksforgeeks.org/problems/linked-list-insertion/1
+
+3)Doubly linked list Insertion at given position
+https://practice.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1
+
+4)Insert in Middle of Linked List
+https://practice.geeksforgeeks.org/problems/insert-in-middle-of-linked-list/1
+
+5)Identical Linked Lists
+https://practice.geeksforgeeks.org/problems/identical-linked-lists/1
+
+
+*************************************EASY LEVEL***************************************
+
+1)Remove duplicate element from sorted Linked List 
+https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1
+
+2)Remove duplicates from an unsorted linked list
+https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1
+
+3)Merge two sorted linked lists
+https://practice.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1
+
+4)Nth node from end of linked list
+https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1
+
+5)Reverse a linked list
+https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1
+
+6)Detect Loop in linked list
+https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1
+
+7)Rotate a Linked List
+https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1
+
+8)Pairwise swap of nodes in LinkeList
+https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1
+
+9)Check if Linked List is Palindrome
+https://practice.geeksforgeeks.org/problems/linked-list-of-strings-forms-a-palindrome/1
+
+10)Given a linked list of 0s, 1s and 2s, sort it
+https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1
+
+
+*************************************MEDIUM LEVEL*************************************
+
+1)Delete without head pointer
+https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1
+
+2)Swap Kth nodes from ends
+https://practice.geeksforgeeks.org/problems/swap-kth-node-from-beginning-and-kth-node-from-end-in-a-singly-linked-list/1
+
+3)Find length of Loop
+https://practice.geeksforgeeks.org/problems/find-length-of-loop/1
+
+4)Remove loop in Linked List
+https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1
+
+5)Add two numbers represented by linked lists
+https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1
+https://leetcode.com/problems/add-two-numbers/
+
+6) Merge Sort for Linked List
+https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1
+
+7)Merge K sorted linked lists 
+https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1
+
+8)Intersection Point in Y Shapped Linked Lists
+https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1
+
+9)Clone a linked list with next and random pointer
+https://leetcode.com/problems/copy-list-with-random-pointer/
+https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1
+
+
+*************************************HARD LEVEL***************************************
