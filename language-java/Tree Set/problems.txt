@@ -1,7 +1,4 @@
 ***************************************MEDIUM LEVEL************************************
 
-1) Kth Smallest Element in a BST
-https://leetcode.com/problems/kth-smallest-element-in-a-bst/
-
-2)Smaller on Right
+1)Smaller on Right
 https://practice.geeksforgeeks.org/problems/smaller-on-right/0/?track=PC-W6-BST&batchId=154
