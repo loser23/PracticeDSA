@@ -1,0 +1,28 @@
+************************************BASIC LEVEL**************************************
+
+1)Implement Queue using array
+https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1
+
+2)Implement Queue using Linked List
+https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1
+
+3)Queue Reversal
+https://practice.geeksforgeeks.org/problems/queue-reversal/1
+
+
+************************************EASY LEVEL****************************************
+
+1)Queue using two Stacks
+https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1
+
+2)Generate Binary Numbers
+https://practice.geeksforgeeks.org/problems/generate-binary-numbers/0
+
+3)Reverse First K elements of Queue
+https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1
+
+************************************MEDIUM LEVEL**************************************
+
+1)Circular tour 
+https://practice.geeksforgeeks.org/problems/circular-tour/1
+
