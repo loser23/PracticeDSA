@@ -1,0 +1,55 @@
+************************************BASIC LEVEL***************************************
+
+1)Search a node in BST
+https://practice.geeksforgeeks.org/problems/search-a-node-in-bst/1
+
+2)Minimum element in BST
+https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1
+
+3)Print BST elements in given range
+https://practice.geeksforgeeks.org/problems/print-bst-elements-in-given-range/1
+
+*************************************EASY LEVEL***************************************
+
+1)Insert a node in a BST
+https://practice.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1
+
+2)Print Common Nodes in two BSTs
+https://practice.geeksforgeeks.org/problems/print-common-nodes-in-bst/1
+
+3)Pair Sum in BST
+https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
+
+
+*************************************MEDIUM LEVEL*************************************
+
+1)Delete a node from BST
+https://practice.geeksforgeeks.org/problems/delete-a-node-from-bst/1
+
+2)Ceil in BST 
+https://practice.geeksforgeeks.org/problems/implementing-ceil-in-bst/1
+
+3)Vertical Traversal of Binary Tree
+https://practice.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1
+
+4)Bottom View of Binary Tree
+https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1
+
+5)Check for BST
+https://practice.geeksforgeeks.org/problems/check-for-bst/1
+
+6)Find the Closest Element in BST
+https://practice.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1
+
+7)Convert Level Order Traversal to BST
+https://practice.geeksforgeeks.org/problems/convert-level-order-traversal-to-bst/1
+
+8)Merge two BST 's
+https://practice.geeksforgeeks.org/problems/merge-two-bst-s/1
+
+*************************************HARD LEVEL*****************************************
+
+1)Top View of Binary Tree
+https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1
+
+
