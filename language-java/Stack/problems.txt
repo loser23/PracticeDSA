@@ -1,7 +1,53 @@
+************************************BASIC LEVEL***************************************
+
+1)Implement stack using array
+https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1
+
+2)Implement Stack using Linked List
+https://practice.geeksforgeeks.org/problems/implement-stack-using-linked-list/1
+
+
 *************************************EASY LEVEL***************************************
 
+1)Removing consecutive duplicates
+https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+
+2)Implement two stacks in an array
+https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1
+
+3)Stack using two queues
+https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1
+
+4)Get min at pop
+https://practice.geeksforgeeks.org/problems/get-min-at-pop/1
+
+5)Delete middle element of a stack
+https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1
+
+6)Evaluation of Postfix Expression
+https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0
 
 *************************************MEDIUM LEVEL*************************************
 
+1)Parenthesis Checker
+https://practice.geeksforgeeks.org/problems/parenthesis-checker/0
 
-*************************************HARD LEVEL***************************************
+2)Infix to Postfix
+https://practice.geeksforgeeks.org/problems/infix-to-postfix/0
+
+3)Stock span problem
+https://practice.geeksforgeeks.org/problems/stock-span-problem/0
+
+4)Next larger element
+https://practice.geeksforgeeks.org/problems/next-larger-element/0
+
+5)Maximum Rectangular Area in a Histogram
+https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0
+
+6)The Celebrity Problem
+https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1
+
+*************************************HARD LEVEL*****************************************
+
+1)Maximum of minimum for every window size
+https://practice.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size/0
