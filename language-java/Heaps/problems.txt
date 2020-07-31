@@ -1,7 +1,7 @@
 ************************************EASY LEVEL****************************************
 
 1)k largest elements
-https://practice.geeksforgeeks.org/problems/k-largest-elements/0
+[https://practice.geeksforgeeks.org/problems/k-largest-elements/0](url)
 
 2)kth largest element
 https://practice.geeksforgeeks.org/problems/kth-smallest-element/0
