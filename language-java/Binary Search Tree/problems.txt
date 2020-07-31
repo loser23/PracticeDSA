@@ -52,4 +52,6 @@ https://practice.geeksforgeeks.org/problems/merge-two-bst-s/1
 1)Top View of Binary Tree
 https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1
 
+2)Fixing Two nodes of a BST
+https://practice.geeksforgeeks.org/problems/fixed-two-nodes-of-a-bst/1
 
