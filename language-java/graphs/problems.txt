@@ -1,0 +1,38 @@
+*********************************************EASY LEVEL**********************************************
+
+1)Print adjacency list
+https://practice.geeksforgeeks.org/problems/print-adjacency-list/0
+
+2)BFS of graph
+https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1
+
+3)DFS of graph
+https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1
+
+
+*******************************************MEDIUM LEVEL*********************************************
+
+1)Detect cycle in an undirected graph
+https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1
+
+2)Detect cycle in a directed graph
+https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1
+
+3)Topological sort
+https://practice.geeksforgeeks.org/problems/topological-sort/1
+
+4)Level of Nodes
+https://practice.geeksforgeeks.org/problems/level-of-nodes/0
+
+5)Dijksra's Algorithm
+https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1
+
+6)Minimum Spanning Tree
+https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1
+
+7)Strongly Connected Components (Kosaraju's Algo)
+https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1
+
+
+********************************************HARD LEVEL*********************************************
+
