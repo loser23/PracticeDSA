@@ -33,6 +33,9 @@ https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1
 7)Strongly Connected Components (Kosaraju's Algo)
 https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1
 
+8)Bridge Edge in graph
+https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1
+
 ********************************************HARD LEVEL*********************************************
 
 8)Find Articular Points In A Undirected Graph
