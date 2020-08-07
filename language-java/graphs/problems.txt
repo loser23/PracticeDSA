@@ -38,8 +38,12 @@ https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1
 
 ********************************************HARD LEVEL*********************************************
 
-8)Find Articular Points In A Undirected Graph
+1)Find Articular Points In A Undirected Graph
  https://www.techgig.com/practice/question/articulation-points/OGhBQ3VDV1hmd1l6WG8zREhMZUYyWEtzbEEzUUx4ZWhwc2g2c1lpT2x5TjJyY3dPeHhxWXlrai8yS0JuVmZKbQ==/1
 
 2)Critical Connections in a Network(Bridges in graph)
 https://leetcode.com/problems/critical-connections-in-a-network/
+
+3)Tarjans Algo for SCC
+https://practice.geeksforgeeks.org/problems/strongly-connected-component-tarjanss-algo/0
+
