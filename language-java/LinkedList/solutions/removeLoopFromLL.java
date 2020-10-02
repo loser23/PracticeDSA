@@ -1,4 +1,5 @@
   public static void removeLoop(Node head){
+    //handling corner cases
        if(head == null || head.next==null)return;
         Node slow = head;
         Node fast  = head.next;
