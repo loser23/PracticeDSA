@@ -30,6 +30,7 @@ class solve{
         return true;
     }
     public static boolean precedence(char x1 , char x2){
+	    //there are only 5 operators : '+' , '-' , '*' , '/' , '^'
         if(x1=='^')return true;
         if((x1=='*' || x1=='/') && x2!='^')return true;
         if((x1=='+' || x1=='-') && (x2!='^' && x2!='*' && x2!='/'))return true;
