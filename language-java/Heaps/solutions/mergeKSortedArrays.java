@@ -3,8 +3,8 @@ package Heap;
 import java.util.*;
 
 public class mergeKSortedArrays {
-    //naive approach
-    // my approach ; make a min heap on basis of lengths of arrays , take 2 shortest length arrays ,
+    //naive solution
+    //  make a min heap on basis of lengths of arrays , take 2 shortest length arrays ,
     // merge them and put back to min heap until there a single final array is left;
     //time complexity O(nklog k) ; n = size of array , k is number of arrays
     //Space Complexity: O( nklog k).
